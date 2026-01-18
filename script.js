@@ -1,1 +1,1 @@
-console.log("Web jalan");
+console.log("Opticom page loaded");
